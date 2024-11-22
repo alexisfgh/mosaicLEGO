@@ -3,7 +3,7 @@
 """
 Created on Sat Aug 10 13:13:26 2024
 
-@author: alexis
+@author: Alexis Godinez
 """
 
 
